@@ -121,3 +121,25 @@ Naman Saini
 ![Working Demo](projPHOTO2.jpeg)
 
 ![Output View](projPHOTO3.jpeg)
+---
+
+## Challenges Faced
+
+- Managing multiple commands from Bluetooth without missing inputs
+- Wiring many components neatly on breadboard
+- LCD display text formatting and limited screen size
+- Handling delays during Morse code blinking
+- Correct pin mapping between code and hardware
+- Debugging serial communication issues
+
+---
+
+## What I Learned
+
+- Arduino digital I/O and pin control
+- Serial communication using Bluetooth module
+- LCD interfacing with LiquidCrystal library
+- Basic queue logic for command handling
+- Writing cleaner structured code using functions
+- Hardware troubleshooting and debugging
+- Importance of documentation and project presentation
