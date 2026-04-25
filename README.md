@@ -84,6 +84,9 @@ The LCD provides live feedback such as LED status, active mode, and custom text 
 ## Author
 
 Naman Saini
+## Circuit Diagram
+
+![Circuit Diagram](ArduinoBTcontrol.png)
 ## Project Images
 
 ![Project Setup](projPHOTO1.jpeg)
