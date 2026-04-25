@@ -87,6 +87,33 @@ Naman Saini
 ## Circuit Diagram
 
 ![Circuit Diagram](ArduinoBTcontrol.png)
+## Pin Mapping
+
+| Component | Arduino Pin |
+|----------|-------------|
+| LED1 | D6 |
+| LED2 | D7 |
+| LED3 | D8 |
+| LED4 | D9 |
+| LED5 | D10 |
+| LED6 | D13 |
+| LCD RS | D12 |
+| LCD EN | D11 |
+| LCD D4 | D5 |
+| LCD D5 | D4 |
+| LCD D6 | D3 |
+| LCD D7 | D2 |
+| LCD VSS (GND) | GND |
+| LCD VDD (Power) | 5V |
+| LCD VO (Contrast) | GND / Potentiometer |
+| LCD RW | GND |
+| LCD Backlight + | 5V |
+| LCD Backlight - | GND |
+| HC-05 TXD | Arduino RX (D0) |
+| HC-05 RXD | Arduino TX (D1) |
+| HC-05 VCC | 5V |
+| HC-05 GND | GND |
+> Note: HC-05 uses hardware serial pins D0/D1. Disconnect during code upload if needed.
 ## Project Images
 
 ![Project Setup](projPHOTO1.jpeg)
