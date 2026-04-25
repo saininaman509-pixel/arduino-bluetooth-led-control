@@ -84,3 +84,10 @@ The LCD provides live feedback such as LED status, active mode, and custom text 
 ## Author
 
 Naman Saini
+## Project Images
+
+![Project Setup](projPHOTO1.jpeg)
+
+![Working Demo](projPHOTO2.jpeg)
+
+![Output View](projPHOTO3.jpeg)
